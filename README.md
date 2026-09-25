@@ -34,7 +34,7 @@ MSDS 520/
 ├── msds520_helpers.py
 ├── Datasets/                              # bundled data files (see below)
 ├── Unit 1 - Math Fundamentals/
-│   ├── Lecture Notes/                     # typeset notes: logic, sets/functions, series, floating point
+│   ├── Lecture Notes/                     # typeset notes, one per slide deck: logic, sets, functions, series, floating point
 │   └── Notebooks/                         # 10 notebooks
 ├── Unit 2 - Linear Algebra/
 │   ├── Lecture Notes/                     # typeset notes: systems, vectors, matrices, transformations, determinants, eigenvalues, PCA
